@@ -7,3 +7,4 @@ Resources:
         ImageId: ami-068a6cefc24c301d2
         #InstanceType: t2.micro
         InstanceType: t3.micro
+        InstanceType: t3x.micro
