@@ -11,3 +11,4 @@ Resources:
         InstanceType: t2.large
         InstanceType: t7.large
         コンフリクと
+        InstanceType: pull request
