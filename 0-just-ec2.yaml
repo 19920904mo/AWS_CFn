@@ -10,4 +10,4 @@ Resources:
         InstanceType: t3x.micro
         InstanceType: t2.large
         InstanceType: t7.large
-        conflict
+        コンフリクと
