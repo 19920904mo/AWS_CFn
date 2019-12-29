@@ -8,4 +8,5 @@ Resources:
         #InstanceType: t2.micro
         InstanceType: t3.micro
         InstanceType: t3x.micro
-        InstanceType: t2.large  
+        InstanceType: t2.large
+        コンフリクと
