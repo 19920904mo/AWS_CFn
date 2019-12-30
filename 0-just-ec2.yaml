@@ -12,3 +12,4 @@ Resources:
         InstanceType: t7.large
         コンフリクと
         InstanceType: pull request
+        InstanceType: GitHub
